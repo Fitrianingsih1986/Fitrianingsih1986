@@ -1,4 +1,4 @@
-t.me/fitrianingsih_bot
+https://t.me/fitrianingsih_bot
 
 <!--
 **Fitrianingsih1986/Fitrianingsih1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
